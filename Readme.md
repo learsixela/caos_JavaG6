@@ -5,3 +5,4 @@ german_pinto.txt
 jose-cabrera.tx
 jaime_tapia.txt
 Isabel_de_la_Cuadra.txt
+dario_vera.txt
