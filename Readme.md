@@ -3,7 +3,5 @@ israel_palma.txt
 Edinson_navas.txt
 german_pinto.txt
 jose-cabrera.tx
-jose-cabrera.txt
-german_pinto.txt
 jaime_tapia.txt
 
